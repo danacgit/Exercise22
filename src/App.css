@@ -1,0 +1,61 @@
+body{
+  background-color:antiquewhite;
+  margin-left:200px;
+  margin-right:200px;
+}
+
+
+img {
+  float:right;
+  border-radius: 50%;
+  border: 5px solid #C08261
+  
+}
+
+
+#role-table {
+  border-collapse: collapse;
+  border: 2px solid black;
+  text-align: left;
+  }
+  
+#role-table th{
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: left;
+  background-color:#99cc00; 
+  }
+  
+#role-table td {
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: left;
+  }
+
+  
+#tech-table {
+  border-collapse: collapse;
+  border: 2px solid black;
+  text-align: left;
+ 
+
+}
+#tech-table th{
+  border:1px solid #a6a6a6;
+  padding:8px;
+  background-color:#99cc00; 
+
+}
+#tech-table td{
+  border:1px solid #a6a6a6;
+  padding:8px;
+}
+
+.container {
+  margin-left:80px
+  
+}
+
+.navbar-nav, .nav-link, .navbar-brand, .container {
+  color:rgb(216, 210, 210)
+}
